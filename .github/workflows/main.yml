@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ${{ eduardosanjuan}}/kevin:latest
+          tags: eduardosanjuan/kevin:latest
